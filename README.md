@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, How is it Going? 👋
 
 Studing in Sejong University, 3rd Grade.
 
