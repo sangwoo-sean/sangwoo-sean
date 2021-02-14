@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Studing in Sejong University, 3rd Grade.
+
+Lived in Ireland for 1 year.
+
+Hobbies : Climbing🧗‍♂️
+
+
 <!--
 **sangwoo-sean/sangwoo-sean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
