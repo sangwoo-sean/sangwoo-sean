@@ -2,10 +2,11 @@
 
 Studing in Sejong University, 3rd Grade.
 
-Lived in Ireland for 1 year.
+Lived in Dublin, Ireland for 1 year.
 
-Hobbies : Climbing🧗‍♂️
+Hobby : Climbing🧗‍♂️
 
+Interested in HTML, CSS, JavaScript, Python, Java, C, React, Android Studio, Machine learning etc.
 
 <!--
 **sangwoo-sean/sangwoo-sean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
