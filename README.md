@@ -2,11 +2,13 @@
 
 Studing in Sejong University, 3rd Grade.
 
+Love learning, learn by doing.
+
 Lived in Dublin, Ireland for 1 year.
 
 Hobby : Climbing🧗‍♂️
 
-Interested in HTML, CSS, JavaScript, Python, Java, C, React, Android Studio, Machine learning etc.
+Interested : HTML, CSS, JavaScript, Python, Flask, NodeJS, Java, Spring, C, React, Android Studio, Machine learning etc.
 
 <!--
 **sangwoo-sean/sangwoo-sean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
