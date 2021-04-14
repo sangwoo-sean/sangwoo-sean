@@ -1,6 +1,6 @@
 ### Hi, How is it Going? 👋
 
-Studing in Sejong University, 3rd Grade.
+Studying in Sejong University, 3rd Grade.
 
 Love learning, learn by doing.
 
