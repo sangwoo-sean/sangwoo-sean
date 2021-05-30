@@ -2,7 +2,9 @@
 
 Studying in Sejong University, 3rd Grade.
 
-Love learning, learn by doing.
+Love learning.
+
+Learn by doing.
 
 Lived in Dublin, Ireland for 1 year.
 
