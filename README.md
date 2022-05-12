@@ -10,7 +10,7 @@ Lived in Dublin, Ireland for 1 year.
 
 Hobby : Climbing🧗‍♂️
 
-Interested : HTML, CSS, JavaScript, Python, Flask, NodeJS, Java, Spring, C, React, Android Studio, Machine learning etc.
+Interested : HTML, CSS, JavaScript, Python, Java, Spring, etc.
 
 <!--
 **sangwoo-sean/sangwoo-sean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
