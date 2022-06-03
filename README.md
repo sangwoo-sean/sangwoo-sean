@@ -1,7 +1,5 @@
 ### Hi, How is it Going? 👋
 
-Studying in Sejong University, 3rd Grade.
-
 Love learning.
 
 Learn by doing.
@@ -10,7 +8,7 @@ Lived in Dublin, Ireland for 1 year.
 
 Hobby : Climbing🧗‍♂️
 
-Interested : HTML, CSS, JavaScript, Python, Java, Spring, etc.
+Interested : HTML, CSS, Java, Spring, JavaScript, Python, etc.
 
 <!--
 **sangwoo-sean/sangwoo-sean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
